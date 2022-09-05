@@ -1,0 +1,4 @@
+qsub -I -lselect=1:ncpus=8:mem=16gb:interconnect=fdr,walltime=0:30:00
+find  . -name 'output_*' -exec cat {} > combErr.txt \;
+find  . -name 'output_*' -exec rm {} \;
+
