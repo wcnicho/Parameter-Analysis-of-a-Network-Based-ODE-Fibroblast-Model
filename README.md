@@ -1,6 +1,6 @@
 # Parameter-Analysis-of-a-Network-Based-ODE-Fibroblast-Model
 - This project was created to find the optimal values for EC50, n, tension, and dose through a parameter sweep based on code created by [Jesse Rogers et al.](https://doi.org/10.7554/eLife.62856)
-- A n updated model created by Kelsey Watts et al. was used
+- An updated model created by Kelsey Watts et al. was used
 - Information about each file can be found in their sub directories under thier respective 'README.md'
 
 # Files
